@@ -6,5 +6,6 @@ The token charges a <b>50%</b> fee on transactions, with <b>45%</b> redistribute
 
 <b>[GRIZZLY can be acquired early via the sale page](https://invest.bears.finance) (liqudity generation event) - 100% of funds raised is used for liquidity. Sale start 14th of June 2021.</b>
 
-Buy GRIZZLY by sending BNB directly to the contract 0x9e1d443440470c5DE3046f188218b38e014a4B8d.
+Get GRIZZLY by sending BNB directly to the contract 0x9e1d443440470c5DE3046f188218b38e014a4B8d.
+
 …
