@@ -1,4 +1,4 @@
-``GRIZZLY``
+**GRIZZLY - internet anti-inflation machine **
 
 <b>GRIZZLY</b> is a cryptocurrency token created in June 2021 on the Binance Smart Chain blockchain. <b>GRIZZLY</b> follows <b>improved SafeMoon model with Timelock and full liquidity lock</b>.
 
