@@ -8,4 +8,4 @@ The token charges a <b>50%</b> fee on transactions, with <b>45%</b> redistribute
 
 Get GRIZZLY by sending BNB directly to the contract 0x9e1d443440470c5DE3046f188218b38e014a4B8d.
 
-…
+🐻📈
