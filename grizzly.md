@@ -5,6 +5,6 @@
 The token charges a <b>50%</b> fee on transactions, with <b>45%</b> redistributed (or reflected) to token holders and <b>5%</b> used to supply market liquidity. In June, the token is scheduled for security auditing at <b>CertiK</b> firm.
 
 
-<b>[GRIZZLY can be acquired early via the sale page](https://invest.bears.finance) (liqudity generation event) - 100% of funds raised is used for liquidity.</b>
+<b>[GRIZZLY can be acquired via the liqudity generation event](https://invest.bears.finance) - 100% of funds raised is used for liquidity.</b>
 
 🐻📈
