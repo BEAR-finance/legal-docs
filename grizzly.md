@@ -11,6 +11,7 @@ Following classical Ethereum flash loan arbitrage we migrated the following mode
 ![image](https://user-images.githubusercontent.com/82381305/127279247-15a757a2-2d1c-4c1f-b474-59245ffc7edf.png)
 
 Triangular Arbitrage model used by GRIZZLY's bot shown below.
+
 ![image](https://user-images.githubusercontent.com/82381305/127279317-b85bd8a8-9031-473a-b54b-2b91fc982a76.png)
 <img width="712" alt="Screenshot 2021-07-28 at 10 09 26" src="https://user-images.githubusercontent.com/82381305/127279511-671b5c99-f3b1-46a3-9cd1-295281268b71.png">
 
