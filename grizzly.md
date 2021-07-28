@@ -15,4 +15,8 @@ Triangular Arbitrage model used by GRIZZLY's bot shown below.
 ![image](https://user-images.githubusercontent.com/82381305/127279317-b85bd8a8-9031-473a-b54b-2b91fc982a76.png)
 <img width="712" alt="Screenshot 2021-07-28 at 10 09 26" src="https://user-images.githubusercontent.com/82381305/127279511-671b5c99-f3b1-46a3-9cd1-295281268b71.png">
 
+## Rewards 
+Rewards are distributed automatically from our smart contract that holds flash loans execution functions. We have fixed timeframe of 30 days (based on Unix timestamps) to airdrop BNB (as Wrapped BNB) to GRIZZLY wallets (not contracts, only use addresses) equivally. Everything is 100% transparent and on-chain.
+![image](https://user-images.githubusercontent.com/82381305/127280017-94ff50b9-bac6-402f-90c5-96148da5ed19.png)
+
 <b>[GRIZZLY can be acquired via the liqudity generation event](https://invest.bears.finance) - 100% of funds raised is used for liquidity. 🐻📈</b>
